@@ -1,0 +1,19 @@
+// This is the config file for boids. These paramaters can be changed at runtime by
+// Editing this file and pressing the "R" (reload) key
+// Don't use the equals sign anywhere except immediately before the parameter
+// Also don't end this file with blank
+//Radii
+followRadius =50.
+velocityMatchRadius =35.
+avoidanceRadius =15.
+
+//Weighting
+followWeight =1.7
+velocityMatchWeight =1.2
+avoidanceWeight =3.4
+
+//FOV
+fieldOfView =90.
+
+//Maximum speed a boid can reach
+maxSpeed =150.

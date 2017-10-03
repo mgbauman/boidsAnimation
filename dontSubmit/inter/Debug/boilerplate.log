@@ -1,0 +1,8 @@
+﻿  Skybox.cpp
+  camera.cpp
+  Boid.cpp
+c:\users\matt\source\repos\boidsanimation\boilerplate\boid.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  boilerplate.vcxproj -> C:\Users\Matt\Source\Repos\boidsAnimation\dontSubmit\bin\Debug\boilerplate.exe
+  boilerplate.vcxproj -> C:\Users\Matt\Source\Repos\boidsAnimation\dontSubmit\bin\Debug\boilerplate.pdb (Partial PDB)
